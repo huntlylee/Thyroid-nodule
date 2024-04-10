@@ -1,7 +1,7 @@
-```
-# Thyroid Nodule Risk Prediction - Jupyter Notebook Tutorial
 
-This README provides a tutorial for using a Jupyter Notebook to predict the risk of developing thyroid nodules based on user input. The notebook utilizes a pre-trained machine learning model to generate risk assessments.
+# Thyroid Nodule Risk Prediction
+
+This README provides a tutorial for using a Jupyter Notebook to predict the risk of developing thyroid nodules based on user input. The notebook utilizes pre-trained machine learning models to assess the 3-year risk of nodule onset.
 
 ## Prerequisites
 
@@ -45,6 +45,12 @@ The notebook is structured as follows:
 ## Using the Notebook
 
 Follow the instructions within the notebook to input the required data. Each cell can be executed by selecting it and pressing `Shift + Enter`. Ensure that you run the cells in the order they appear.
+
+## Alternative Tools
+
+A calibrated [nomogram](Nomogram.png) based on the regression model is provided to simplify the risk assessment in clinical settings.
+
+An [Excel spreadsheet](Thyroid nodule risk prediction.xlsx) is also available to facilitate the use of this approach on electronic devices. Users just need to enter values for required clinical indicators, and the risk can be automatically calculated. 
 
 ## Support
 
