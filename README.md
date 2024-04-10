@@ -8,18 +8,20 @@ This README provides a tutorial for using a Jupyter Notebook to predict the risk
 Before you begin, ensure you have the following installed:
 - Python 3.8 or above
 - Jupyter Notebook
-- Required Python libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`
+- Required Python libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, 'xgboost', 'lightgbm', 'joblib'
 
 You can install the required libraries using the following command:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib
+pip install xgboost
+pip install lightgbm
+pip install joblib
 ```
 
 ## Getting Started
 
-1. Clone the repository or download the Jupyter Notebook and the pre-trained model from the provided link.
-
+1. Clone the repository or download the Jupyter Notebook and the pre-trained model.
 2. Launch Jupyter Notebook by running the following command in your terminal:
 
 ```bash
@@ -32,15 +34,15 @@ jupyter notebook
 
 The notebook is structured as follows:
 
-1. **Introduction**: An overview of the thyroid nodule risk prediction and instructions on how to use the notebook.
+1. **Import**: Import all required packages.
 
-2. **Data Input**: A section for inputting user data. You will be prompted to enter relevant clinical features such as age, HDL-C levels, FBG levels, and creatinine levels.
+2. **Data Input**: A section for inputting user data. Please enter all required clinical features, such as age, HDL-C levels, FBG levels, and creatinine levels, into the proper fields. You may also select from different pre-trained machine learning models.
 
-3. **Model Loading**: Code to load the pre-trained machine learning model.
+3. **Data Preprocessing**: To automatically preprocess the above user inputs to the standard data format recognized by the model
 
-4. **Risk Prediction**: The notebook will use the input data to predict the risk of developing thyroid nodules and display the result.
+4. **Model Loading**: Code to load the pre-trained machine learning model.
 
-5. **Interpretation**: Explanation of the risk score and guidance on potential next steps based on the score.
+5. **Risk Prediction**: The notebook will use the input data to predict the risk of developing thyroid nodules and display the result.
 
 ## Using the Notebook
 
@@ -56,7 +58,7 @@ Follow the instructions within the notebook to input the required data. Each cel
 
 ## Support
 
-For any issues or questions regarding the notebook, please refer to the 'Support' section at the end of the notebook or contact the repository maintainer.
+For any issues or questions regarding the notebook, please contact the repository maintainer.
 
 ## Data Privacy
 
