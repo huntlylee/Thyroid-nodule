@@ -50,7 +50,9 @@ Follow the instructions within the notebook to input the required data. Each cel
 
 A calibrated [nomogram](Nomogram.png) based on the regression model is provided to simplify the risk assessment in clinical settings.
 
-An [Excel spreadsheet](Thyroid nodule risk prediction.xlsx) is also available to facilitate the use of this approach on electronic devices. Users just need to enter values for required clinical indicators, and the risk can be automatically calculated. 
+![Alternative Tools](Nomogram.png)
+
+An Excel spreadsheet (Thyroid nodule risk prediction.xlsx) is also available to facilitate the use of this approach on electronic devices. Users just need to enter values for required clinical indicators, and the risk can be automatically calculated. 
 
 ## Support
 
