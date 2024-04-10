@@ -21,7 +21,7 @@ pip install joblib
 
 ## Getting Started
 
-1. Clone the repository or download the Jupyter Notebook and the pre-trained model.
+1. Clone the repository or download the Jupyter Notebook '''Tutorial.ipynb''' and the pre-trained models.
 2. Launch Jupyter Notebook by running the following command in your terminal:
 
 ```bash
@@ -55,6 +55,8 @@ Follow the instructions within the notebook to input the required data. Each cel
 ![Alternative Tools](Nomogram.png)
 
 * An Excel spreadsheet ```Thyroid nodule risk prediction.xlsx``` is also available to facilitate the use of this approach on electronic devices. Users just need to enter values for required clinical indicators, and the risk can be automatically calculated. 
+
+![Alternative Tools](Excel tool.png)
 
 ## Support
 
