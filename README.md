@@ -68,7 +68,7 @@ Please note that any input data you provide should be handled in accordance with
 
 ## License
 
-This tutorial and the accompanying Jupyter Notebook are provided under the [Apache 2.0 license](LICENSE.txt).
+This tutorial and the accompanying Jupyter Notebook are provided under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgments
 
