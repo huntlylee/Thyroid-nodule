@@ -1,6 +1,8 @@
 
 # Thyroid Nodule Risk Prediction
 
+![GitHub License](https://img.shields.io/github/license/huntlylee/Thyroid-nodule)
+
 This README provides a tutorial for using a Jupyter Notebook to predict the risk of developing thyroid nodules based on user input. The notebook utilizes pre-trained machine learning models to assess the 3-year risk of nodule onset.
 
 ## Prerequisites
