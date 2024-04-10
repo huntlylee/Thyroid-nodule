@@ -56,7 +56,7 @@ Follow the instructions within the notebook to input the required data. Each cel
 
 * An Excel spreadsheet ```Thyroid nodule risk prediction.xlsx``` is also available to facilitate the use of this approach on electronic devices. Users just need to enter values for required clinical indicators, and the risk can be automatically calculated. 
 
-![Alternative Tools](Excel tool.png)
+![Alternative Tools](Excel%20tool.png)
 
 ## Support
 
