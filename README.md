@@ -62,6 +62,3 @@ This tutorial and the accompanying Jupyter Notebook are provided under the [MIT 
 
 We would like to thank the contributors and maintainers of the Python libraries used in this project.
 
-```
-
-Please note that this README assumes that the actual Jupyter Notebook, pre-trained model, and other resources such as the license file are already created and available in a repository or a downloadable format. Adjust the README as necessary to fit the actual content and structure of your tutorial and resources.
